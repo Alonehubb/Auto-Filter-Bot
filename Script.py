@@ -139,7 +139,7 @@ User - {}"""
 
 ᴄʜᴇᴄᴋ /plan ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟꜱ...</b>"""
 
-    VERIFY_COMPLETE_TEXT = """<welcome>ʜʏ {},
+    VERIFY_COMPLETE_TEXT = """<b>ʜʏ {},
 
 ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 𝟷sᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ...
 
@@ -149,7 +149,7 @@ User - {}"""
 
 💶 ᴄʜᴇᴄᴋ /plan ᴛᴏ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</b>"""
 
-    SECOND_VERIFICATION_TEXT = """<welcome>ʜʏ {} {},
+    SECOND_VERIFICATION_TEXT = """<b>ʜʏ {} {},
 
 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ᴛᴏᴅᴀʏ 😐
 ᴄʟɪᴄᴋ ᴏɴ ᴠᴇʀɪꜰʏ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇꜱꜱ ᴛɪʟʟ ɴᴇxᴛ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ
@@ -160,7 +160,7 @@ User - {}"""
 
 ᴄʜᴇᴄᴋ /plan ꜰᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟꜱ...</b>"""
 
-    SECOND_VERIFY_COMPLETE_TEXT = """<welcome >ʜʏ {},
+    SECOND_VERIFY_COMPLETE_TEXT = """<b>ʜʏ {},
 
 ʏᴏᴜ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ᴛʜᴇ 𝟸ɴᴅ ᴠᴇʀɪꜰɪᴄᴀᴛɪᴏɴ...
 
@@ -170,7 +170,7 @@ User - {}"""
 
 💶 ᴄʜᴇᴄᴋ /plan ᴛᴏ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ</b>"""
 
-    THIRDT_VERIFICATION_TEXT = """<chalo>ʜʏ {} {},
+    THIRDT_VERIFICATION_TEXT = """<b>ʜʏ {} {},
 
 ʏᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪꜰɪᴇᴅ ‼️
 ᴛᴀᴘ ᴏɴ ᴛʜᴇ ᴠᴇʀɪꜰʏ ʟɪɴᴋ ᴀɴᴅ ɢᴇᴛ ᴜɴʟɪᴍɪᴛᴇᴅ ᴀᴄᴄᴇss ꜰᴏʀ ᴛᴏᴅᴀʏ 😇
