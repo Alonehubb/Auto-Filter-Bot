@@ -25,11 +25,11 @@ ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ
 USERNAME = environ.get('USERNAME', 'https://telegram.me/mrboy638')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002170835362'))
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002370744720').split()]
-DATABASE_URI = environ.get('DATABASE_URI', "")
-DATABASE_URI2 = environ.get('DATABASE_URI2', "")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Rahul")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Rahul')
-LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', ''))
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://vzdkz:cmo941iJf72S3MUP@cluster0.2vib8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URI2 = environ.get('DATABASE_URI2', "mongodb+srv://vzdkz:cmo941iJf72S3MUP@cluster0.2vib8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_NAME = environ.get('DATABASE_NAME', "TELEGRAM_BOT_INFO")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
+LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '-1002410598235'))
 QR_CODE = environ.get('QR_CODE', 'https://graph.org/file/cf0815db33c71115b208a.jpg')
 
 #this vars is for when heroku or koyeb acc get banned, then change this vars as your file to link bot name
